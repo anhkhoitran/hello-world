@@ -1,2 +1,2 @@
 # hello-world
-i just folow the instruction
+i just follow the instruction
